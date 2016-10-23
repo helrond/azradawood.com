@@ -1,11 +1,11 @@
-name : Center & Library for the Bible and Social Justice
-brand : CLBSJ
-description : Connecting scholars, students, clergy, activists, and community organizers.
-keyword : bible, justice, library, clbsj
-url : http://hillelarnold.com/clbsj.org
-author : The Center & Library for the Bible and Social Justice
+name : Azra Dawood
+brand : ad
+description :
+keyword : azra dawood architect history
+url : http://azradawood.com
+author : Azra Dawood
 year : 2016
-twitter : clbsj
+twitter : 4joo
 markdown : kramdown
 exclude :
   - node_modules
