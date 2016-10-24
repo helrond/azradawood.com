@@ -5,7 +5,6 @@ keyword : azra dawood architect history
 url : http://azradawood.com
 author : Azra Dawood
 year : 2016
-twitter : 4joo
 markdown : kramdown
 exclude :
   - node_modules
