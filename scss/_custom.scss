@@ -29,6 +29,11 @@ h1, h2, h3, h4, h5, h6 {
   min-height: 31rem;
 }
 
+.label {
+  vertical-align: middle;
+  font-weight: 400;
+}
+
 .top-bar {
     margin-bottom:2rem;
     border-bottom: 1px solid $white;
@@ -65,4 +70,13 @@ footer {
 .home-section {
   padding-bottom: 18%;
   padding-top: 18%;
+}
+
+.button.hollow {
+  border-color: $primary-color;
+  color: $primary-color;
+  &:hover {
+    border-color: scale-color($primary-color, $lightness: -20%);
+    color: scale-color($primary-color, $lightness: -20%);
+  }
 }

@@ -4071,6 +4071,10 @@ h1, h2, h3, h4, h5, h6 {
 #content {
   min-height: 31rem; }
 
+.label {
+  vertical-align: middle;
+  font-weight: 400; }
+
 .top-bar {
   margin-bottom: 2rem;
   border-bottom: 1px solid #fefefe;
@@ -4099,3 +4103,10 @@ footer {
 .home-section {
   padding-bottom: 18%;
   padding-top: 18%; }
+
+.button.hollow {
+  border-color: #CF5300;
+  color: #CF5300; }
+  .button.hollow:hover {
+    border-color: #a64200;
+    color: #a64200; }
