@@ -9,10 +9,9 @@ I am a [graduate student](https://architecture.mit.edu/student/azra-dawood) in t
 
 ## Work
 
-### John D. Rockefeller, Jr. and the Architecture of "Protestant Modernism" (1919-1946) <span class="label">Doctoral Dissertation</span> <span class="label">in progress</span>
+### John D. Rockefeller, Jr. and the Architecture of "Protestant Internationalism" (1919-1946) <span class="label">Doctoral Dissertation</span> <span class="label">in progress</span>
 
-The scope and nature of John D. Rockefeller, Jr.’s architectural legacy is little understood today. While these eclectic and largely historicist buildings can appear to be a rich man’s folly, my dissertation suggests otherwise. I argue that the aesthetic design of Rockefeller’s projects emanated from his determination to present American Protestantism as a world religion-and the U.S. as a political messiah-after the First World War. Although Rockefeller hired a team of architects across his projects, I demonstrate that he himself participated in the spatial realization of his ideology, carefully leveraging all scales and styles of architecture in this messaging. My work challenges architectural history’s dismissal of eclecticism as well as its bias towards the architect as author of an oeuvre.
-
+Conceptualizing the patron as ideological form-giver, I propose a critical history of American oil heir John D. Rockefeller, Jr.’s architectural oeuvre between the two World Wars. Focusing on two obscure projects—the International Student Houses in the United States and France, and the Oriental Institute’s expedition-houses in the Near East—I show how Rockefeller used architecture to position American Protestantism as a world religion, and the U.S. as political messiah, for modernizing nations abroad and isolationists at home. To facilitate this ideology and its infrastructure’s acceptance into foreign environments, each building was designed to harmonize with its surroundings. This strategy, I argue, obfuscates the logic behind these eclectic projects for architectural historians today.
 
 ### Failure to engage: the Breasted-Rockefeller gift of a new Egyptian Museum and Research Institute at Cairo (1926) <span class="label">Master's Thesis</span>
 
