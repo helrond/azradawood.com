@@ -20,6 +20,11 @@ In 1926, the United States' first Egyptologist James Henry Breasted and the phil
 <a href="http://hdl.handle.net/1721.1/59109" class="tiny button hollow"><i class="fa fa-file-pdf-o"></i> DSpace@MIT</a>
 
 ## Awards
+_Rockefeller Archive Center Grant-in-Aid_, Rockefeller Archive Center. Sleepy Hollow, NY (2015-2016).
+
+<a href="http://rockarch.org/publications/resrep/dawood.pdf" class="button tiny hollow"><i class="fa fa-file-pdf-o"></i> Rockefeller Archive Center</a>
+
+
 SOM Foundation Travel Fellowship for Architecture, Design and Urban Design, 2010
 
 <a href="http://www.somfoundation.som.com/fellow/azra-dawood" class="button tiny hollow"><i class="fa fa-file-pdf-o"></i> SOM Foundation</a>
