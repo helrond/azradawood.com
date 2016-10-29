@@ -4069,7 +4069,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 80%; }
 
 #content {
-  min-height: 31rem; }
+  min-height: 14rem; }
 
 .content h1 {
   margin-top: 2rem; }
@@ -4103,7 +4103,7 @@ footer {
 
 .home-section {
   padding-bottom: 30%;
-  padding-top: 21%; }
+  padding-top: 30%; }
 
 .home-title {
   background-image: url(/img/cover.jpg);
