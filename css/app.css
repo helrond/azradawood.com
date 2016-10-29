@@ -4109,7 +4109,26 @@ footer {
   background-image: url(/img/cover.jpg);
   background-size: cover;
   background-position: center;
-  color: #fefefe; }
+  color: #fefefe;
+  margin-bottom: -3rem; }
+  @media screen and (min-width: 40em) {
+    .home-title {
+      margin-bottom: -2rem; } }
+
+.home-caption {
+  color: #fefefe;
+  text-align: center;
+  background-color: rgba(10, 10, 10, 0.5);
+  position: relative;
+  bottom: 0;
+  height: 3rem; }
+  .home-caption p {
+    line-height: 1.5rem; }
+  @media screen and (min-width: 40em) {
+    .home-caption {
+      height: 2rem; }
+      .home-caption p {
+        line-height: 2rem; } }
 
 .button.hollow {
   border-color: #CF5300;
