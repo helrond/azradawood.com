@@ -4079,7 +4079,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400; }
 
 .top-bar {
-  border-bottom: 1px solid #fefefe;
   background-color: #CF5300; }
   .top-bar ul, .top-bar ul ul {
     background-color: #CF5300; }
@@ -4090,7 +4089,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0; }
 
 footer {
-  border-top: 1px solid #fefefe;
   padding-top: 1rem;
   background-color: #CF5300;
   color: #fefefe; }
