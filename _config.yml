@@ -8,3 +8,6 @@ year : 2016
 markdown : kramdown
 exclude :
   - node_modules
+prose :
+  siteurl: 'http://azradawood.com'
+  ignore: ['_includes/', '_layouts/', 'bower_components/', 'css/', 'fonts/', 'img/', 'js/', 'scss/', '.bowerrc', '.gitignore', 'CHANGELOG.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', '_config.yml', 'bower.json', 'gulpfile.js', 'package.json', 'robots.txt']
