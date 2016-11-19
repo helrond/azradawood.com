@@ -5,6 +5,8 @@ description:
 keywords:
 ---
 
+<a href="AzraDawood_CV.pdf" class="button tiny hollow"><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+
 ## Higher Education
 
 ### Massachusetts Institute of Technology, Cambridge, MA
@@ -48,7 +50,7 @@ Dissertation Prospectus presentation at _Shangri La Dissertation Workshop_, orga
 
 ## Publications
 &ldquo;Upcoming Chapter (title pending)&rdquo;in _Building Discourse: Master of Science in Architectural Studies (SMArchS) Theses._ Vol. 2. Cambridge: MIT SA+P Press, 2016, Print &amp; Web. (2016)  
-_Obligation &amp; Opportunity: John D. Rockefeller, Jr&rsquo;s Philanthropic Projects and the Aesthetic Visualization of U.S. Identity_ _– An Overview__._ Chicago: SOM Foundation, 2012. http://www.somfoundation.som.com/repository/files/submissions/azra.dawood/index.html (2012)  
+_Obligation &amp; Opportunity: John D. Rockefeller, Jr&rsquo;s Philanthropic Projects and the Aesthetic Visualization of U.S. Identity – An Overview_. Chicago: SOM Foundation, 2012. http://www.somfoundation.som.com/repository/files/submissions/azra.dawood/index.html (2012)  
 &ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919)&rdquo; in _In the Distance: \*research-in-progress 2010_, Ana Maria León, Alla Vronskaya, Eds., (Cambridge, MA: Massachusetts Institute of Technology, 2010). (2010)  
 
 ## Academic Service
