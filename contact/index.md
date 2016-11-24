@@ -1,8 +1,8 @@
 ---
 layout: level-one
 title: Contact
-description:
-keywords:
+description: How to contact me.
+keywords: contact
 ---
 
 <div class="small-6 columns">

@@ -1,8 +1,8 @@
 ---
 layout: level-one
 title: Academics
-description:
-keywords:
+description: Information about my research interests, academic work and awards.
+keywords: academics, awards, research interests
 ---
 
 I am a [graduate student](https://architecture.mit.edu/student/azra-dawood) in the History, Theory and Criticism of Architecture and Art program and the Aga Khan Program for Islamic Architecture. My research interests are: American architectural patronage and philanthropy between the First and Second World Wars; post/colonial architecture and urbanism; and, the historiography of collections and objects.

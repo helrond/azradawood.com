@@ -1,8 +1,8 @@
 ---
 layout: level-one
 title: Curriculum Vitae
-description:
-keywords:
+description: My CV
+keywords: curriculum vitae
 ---
 
 <a href="AzraDawood_CV.pdf" class="button tiny hollow"><i class="fa fa-file-pdf-o"></i> Download PDF</a>
