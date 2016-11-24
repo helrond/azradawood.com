@@ -1,4 +1,4 @@
-{% capture meta_description %}{% if page.description %}{{page.description}}{% else %}{{page.content | markdownify | strip_html  | truncatewords:50 }}{% endif %}{% endcapture %}
+{% capture meta_description %}{% if page.description %}{{page.description}}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 
 <head>
   <meta charset="utf-8">
