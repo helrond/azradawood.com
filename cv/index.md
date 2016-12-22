@@ -3,6 +3,7 @@ layout: level-one
 title: Curriculum Vitae
 description: My CV
 keywords: curriculum vitae
+published: true
 ---
 
 <a href="AzraDawood_CV.pdf" class="button tiny hollow"><i class="fa fa-file-pdf-o"></i> Download PDF</a>
@@ -55,10 +56,10 @@ _Obligation &amp; Opportunity: John D. Rockefeller, Jr&rsquo;s Philanthropic Pro
 
 ## Academic Service
 
-### Guest Presenter
+### Invited Lecturer
 Seminar Class at Spitzer School of Architecture, The City College of New York (2016)
 
-### Design Study Jury (Guest Reviewer)
+### Design Studio Juror
 MIT School of Architecture and Planning (2013)  
 Parsons The New School for Design (2014)  
 Spitzer School of Architecture, The City College of New York (2015)
@@ -101,4 +102,4 @@ Research and Writing assistantship for this book: Lari, Yasmeen, and Suhail Zahe
 English - Native  
 Urdu - Native  
 French - Good, can read with dictionary  
-Arabic - Good, can read with dictionary  
+Arabic - Good, can read with dictionary
