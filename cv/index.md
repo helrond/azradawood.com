@@ -72,7 +72,7 @@ Spitzer School of Architecture, The City College of New York (2015)
 ### Massachusetts Institute of Technology, Cambridge, MA
 
 #### Research Assistantship
-Research for Nasser Rabbat(Fall 2014; Spring 2015; Fall 2016)
+Research for Nasser Rabbat (Fall 2014; Spring 2015; Fall 2016)
 
 #### Teaching Assistantship
 _Locating Capitalism_, Graduate Seminar, Professor Lauren Jacobi (Spring 2014)  
