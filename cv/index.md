@@ -87,7 +87,8 @@ _Orientalism and Representation_, Graduate Seminar, Professor Nasser Rabbat (Fal
 _Theory and Methods in the Study of Art and Architecture_, Graduate Seminar, Professor Kristel Smentek (Fall 2013)
 
 #### Teaching Assistantship w/ Additional Duties
-_Global Architecture_, Survey Lecture for Undergraduate and Masters Students, Professor Mark Jarzombek (Spring 2013). Responsibilities: designing and leading weekly discussion sections; creating and grading exams and assignments.  
+_Global Architecture_, Survey Lecture for Undergraduate and Masters Students, Professor Mark Jarzombek (Spring 2013). Responsibilities: designing and leading weekly discussion sections; creating and grading exams and assignments.
+
 _Religious Architecture and Islamic Cultures_, Survey Lecture for Undergraduate and Masters Students, Professor Nasser Rabbat (Fall 2012). Responsibilities: creating and delivering two lectures; grading assignments.
 
 ## Architecture Work experience (select)
