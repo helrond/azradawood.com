@@ -60,7 +60,7 @@ Dissertation Prospectus presentation at _Shangri La Dissertation Workshop_, orga
 
 _Obligation &amp; Opportunity: John D. Rockefeller, Jr&rsquo;s Philanthropic Projects and the Aesthetic Visualization of U.S. Identity – An Overview_. Chicago: SOM Foundation, 2012. http://www.somfoundation.som.com/repository/files/submissions/azra.dawood/index.html
 
-&ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919)&rdquo; in _In the Distance: \*research-in-progress 2010_, Ana Maria León, Alla Vronskaya, Eds., (Cambridge, MA: Massachusetts Institute of Technology, 2010).  
+&ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919)&rdquo; in _In the Distance: \*research-in-progress 2010_, Ana Maria León, Alla Vronskaya, Eds., (Cambridge, MA: Puritan Press, 2010).  
 
 ## Academic Service
 
