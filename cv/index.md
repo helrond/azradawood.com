@@ -44,10 +44,15 @@ _University Honors,_ University of Texas, Austin, Texas. (Fall 1998, Spr 1996)
 
 ## Conferences &amp; Workshops
 &ldquo;Building a Protestant Internationalism: John D. Rockefeller, Jr. and the Architecture of New York's International Student House,&rdquo; paper presented at _Buell Dissertation Colloquium_, The Temple Hoyne Buell Center for the Study of American Architecture at Columbia University, New York, NY (April 1, 2017)
-_Global Architectural History Teaching Collaborative,_ 2016 Conference, University of Washington, Seattle (observer) (Oct 2016)  
-&ldquo;&lsquo;Disciplining&rsquo; the World: John D. Rockefeller, Jr. and the Architecture of International Houses (1921-1936),&rdquo; paper presented at _Dislocation, Disjuncture, Dispute_ (Art History Graduate Student Symposium), Rutgers, The State University of New Jersey, New Brunswick, NJ (Apr 2016)  
-Dissertation Prospectus presentation at _Shangri La Dissertation Workshop_, organized by University of California, Berkeley and MIT&rsquo;s Aga Khan Program for Islamic Architecture, Shangri La Center for Islamic Arts and Cultures, Honolulu, Hawaii (Mar 2013)  
-&ldquo;Egypt by Design: The Architecture of the New Egyptian Museum and Research Institute at Cairo (1926),&rdquo; paper presented at _Design/History/Revolution: At the Intersection of Art, Design, Politics, and Historical Studies_, School of Art Design History and Theory at Parsons The New School for Design (Apr 2012)  
+
+_Global Architectural History Teaching Collaborative,_ 2016 Conference, University of Washington, Seattle (observer) (Oct 2016)
+
+&ldquo;&lsquo;Disciplining&rsquo; the World: John D. Rockefeller, Jr. and the Architecture of International Houses (1921-1936),&rdquo; paper presented at _Dislocation, Disjuncture, Dispute_ (Art History Graduate Student Symposium), Rutgers, The State University of New Jersey, New Brunswick, NJ (Apr 2016)
+
+Dissertation Prospectus presentation at _Shangri La Dissertation Workshop_, organized by University of California, Berkeley and MIT&rsquo;s Aga Khan Program for Islamic Architecture, Shangri La Center for Islamic Arts and Cultures, Honolulu, Hawaii (Mar 2013)
+
+&ldquo;Egypt by Design: The Architecture of the New Egyptian Museum and Research Institute at Cairo (1926),&rdquo; paper presented at _Design/History/Revolution: At the Intersection of Art, Design, Politics, and Historical Studies_, School of Art Design History and Theory at Parsons The New School for Design (Apr 2012)
+
 &ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919),&rdquo; paper presented at _In the Distance \*research-in-progress_ (Department of Architecture Graduate Student Conference), Massachusetts Institute of Technology (Feb 2010)  
 
 ## Publications
