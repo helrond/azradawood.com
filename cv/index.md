@@ -43,6 +43,7 @@ _School of Architecture&#39;s Travel Grant for Mexico Studio,_ University of Tex
 _University Honors,_ University of Texas, Austin, Texas. (Fall 1998, Spr 1996)
 
 ## Conferences &amp; Workshops
+&ldquo;Building a Protestant Internationalism: John D. Rockefeller, Jr. and the Architecture of New York's International Student House,&rdquo; paper presented at _Buell Dissertation Colloquium_, The Temple Hoyne Buell Center for the Study of American Architecture at Columbia University, New York, NY (April 1, 2017)
 _Global Architectural History Teaching Collaborative,_ 2016 Conference, University of Washington, Seattle (observer) (Oct 2016)  
 &ldquo;&lsquo;Disciplining&rsquo; the World: John D. Rockefeller, Jr. and the Architecture of International Houses (1921-1936),&rdquo; paper presented at _Dislocation, Disjuncture, Dispute_ (Art History Graduate Student Symposium), Rutgers, The State University of New Jersey, New Brunswick, NJ (Apr 2016)  
 Dissertation Prospectus presentation at _Shangri La Dissertation Workshop_, organized by University of California, Berkeley and MIT&rsquo;s Aga Khan Program for Islamic Architecture, Shangri La Center for Islamic Arts and Cultures, Honolulu, Hawaii (Mar 2013)  
