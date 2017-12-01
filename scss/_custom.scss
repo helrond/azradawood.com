@@ -57,9 +57,9 @@ footer {
   background-color: $primary-color;
   color: $white;
   a {
-    color: $white;
+    color: $dark-gray;
     &:hover {
-      color: scale-color($white, $lightness: -15%);
+      color: scale-color($dark-gray, $lightness: 15%);
     }
   }
   h6 {
