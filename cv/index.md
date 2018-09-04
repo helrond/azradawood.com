@@ -12,10 +12,10 @@ published: true
 
 ### Massachusetts Institute of Technology, Cambridge, MA
 
-#### PhD Candidate (2011 – Present, Expected Graduation Date 2018)
+#### PhD (2011 – 2018)
 History, Theory and Criticism of Architecture and Art
 Aga Khan Program for Islamic Architecture (AKPIA)  
-Dissertation Topic: _Disciplining the World: John D. Rockefeller, Jr. &amp; the Architecture of Protestant Internationalism (1919-1945)_  
+Dissertation Topic: _Building Protestant Modernism: John D. Rockefeller Jr. &amp; the Architecture of an American Internationalism (1919-1939)_  
 Committee: Nasser O. Rabbat, Mark M. Jarzombek, Caroline A. Jones, Christopher Capozzola
 
 #### Master of Science in Architecture Studies (2008 - June 2010)  
@@ -42,10 +42,12 @@ _The Aga Khan Student Travel Grant,_ AKPIA, MIT. Cambridge, MA (2009 – 2010)
 _School of Architecture&#39;s Travel Grant for Mexico Studio,_ University of Texas, Austin, TX (2000)
 _University Honors,_ University of Texas, Austin, Texas. (Fall 1998, Spr 1996)
 
-## Conferences &amp; Workshops
-&ldquo;Building a Protestant Internationalism: John D. Rockefeller, Jr. and the Architecture of New York's International Student House,&rdquo; paper presented at _Buell Dissertation Colloquium_, The Temple Hoyne Buell Center for the Study of American Architecture at Columbia University, New York, NY (April 1, 2017)
 
-_Global Architectural History Teaching Collaborative,_ 2016 Conference, University of Washington, Seattle (observer) (Oct 2016)
+## Conferences &amp; Workshops
+
+&ldquo;Protestant Modernism and its Architectural Outposts in Cairo, Chicago, and New York City (1921-1929),&rdquo; paper presented at _Entangled Urbanisms: History, Place, and the Shaping of Cities (symposium)_, Department of Art History, Northwestern University, Evanston, IL (May, 2018)
+
+&ldquo;Building a Protestant Internationalism: John D. Rockefeller, Jr. and the Architecture of New York's International Student House,&rdquo; paper presented at _Buell Dissertation Colloquium_, The Temple Hoyne Buell Center for the Study of American Architecture at Columbia University, New York, NY (April 1, 2017)
 
 &ldquo;&lsquo;Disciplining&rsquo; the World: John D. Rockefeller, Jr. and the Architecture of International Houses (1921-1936),&rdquo; paper presented at _Dislocation, Disjuncture, Dispute_ (Art History Graduate Student Symposium), Rutgers, The State University of New Jersey, New Brunswick, NJ (Apr 2016)
 
