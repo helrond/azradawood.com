@@ -45,7 +45,7 @@ _University Honors,_ University of Texas, Austin, Texas. (Fall 1998, Spr 1996)
 
 ## Conferences &amp; Workshops
 
-&ldquo;Protestant Modernism and its Architectural Outposts in Cairo, Chicago, and New York City (1921-1929),&rdquo; paper presented at _Entangled Urbanisms: History, Place, and the Shaping of Cities (symposium)_, Department of Art History, Northwestern University, Evanston, IL (May, 2018)
+&ldquo;Protestant Modernism and its Architectural Outposts in Cairo, Chicago, and New York City (1921-1929),&rdquo; paper presented at _Entangled Urbanisms: History, Place, and the Shaping of Cities_ (symposium), Department of Art History, Northwestern University, Evanston, IL (May, 2018)
 
 &ldquo;Building a Protestant Internationalism: John D. Rockefeller, Jr. and the Architecture of New York's International Student House,&rdquo; paper presented at _Buell Dissertation Colloquium_, The Temple Hoyne Buell Center for the Study of American Architecture at Columbia University, New York, NY (April 1, 2017)
 
@@ -57,14 +57,26 @@ Dissertation Prospectus presentation at _Shangri La Dissertation Workshop_, orga
 
 &ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919),&rdquo; paper presented at _In the Distance \*research-in-progress_ (Department of Architecture Graduate Student Conference), Massachusetts Institute of Technology (Feb 2010)  
 
+## Events Organized
+&ldquo;Religion in Secular American Architecture,&rdquo; panel organized at Society of Architectural Historians 71st Annual International Conference, St. Paul, MN (2018)
+
+&ldquo;NYU Modern,&rdquo; exhibition curated at Mamdouha S. Bobst Gallery, New York University, New York, NY (2017)
+
+&ldquo;Workshop for Global Architectural History Teaching Collaborative,&rdquo; co-organized in East Hampton, NY (2017)
+
 ## Publications
-&ldquo;Upcoming Chapter (title pending)&rdquo;in _Building Discourse: Master of Science in Architectural Studies (SMArchS) Theses._ Vol. 2. Cambridge: MIT SA+P Press, 2017, Print &amp; Web. 
+&ldquo;John D. Rockefeller Jr. and the Architecture of New York's International Student House&rdquo; (Article in preparation)
+
+&ldquo;Upcoming Chapter (title pending)&rdquo; in _Building Discourse: Master of Science in Architectural Studies (SMArchS) Theses._ Vol. 2. Cambridge: MIT SA+P Press, 2018, Print &amp; Web. 
 
 _Obligation &amp; Opportunity: John D. Rockefeller, Jr&rsquo;s Philanthropic Projects and the Aesthetic Visualization of U.S. Identity – An Overview_. Chicago: SOM Foundation, 2012. http://www.somfoundation.som.com/repository/files/submissions/azra.dawood/index.html
 
-&ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919)&rdquo; in _In the Distance: \*research-in-progress 2010_, Ana Maria León, Alla Vronskaya, Eds., (Cambridge, MA: Puritan Press, 2010).  
+&ldquo;Archaeological Ambassadors-at-large and the Making of the Oriental Institute at the University of Chicago (1919)&rdquo; in _In the Distance: \*research-in-progress 2010_, Ana María León, Alla Vronskaya, Eds., (Cambridge, MA: Puritan Press, 2010).  
 
 ## Academic Service
+
+### Program Advisor
+School of Art & Architecture, Karachi Institute of Technology and Entrepreneurship, Karachi, Pakistan (2017-present)
 
 ### Invited Lecturer
 Seminar Class at Spitzer School of Architecture, The City College of New York (2016)
@@ -72,7 +84,7 @@ Seminar Class at Spitzer School of Architecture, The City College of New York (2
 ### Design Studio Juror
 MIT School of Architecture and Planning (2013)  
 Parsons The New School for Design (2014)  
-Spitzer School of Architecture, The City College of New York (2015)
+Spitzer School of Architecture, The City College of New York (2015, 2017)
 
 ### Peer Reviewer
  _Globalizing Architecture / Flows and Disruptions_, 102nd ACSA Conference, Florida International University, Miami Beach, FL (April 2014)
@@ -107,9 +119,11 @@ Residential Architecture. Design and renovation of townhouses and lofts in New Y
 #### Intern
 Research and Writing assistantship for this book: Lari, Yasmeen, and Suhail Zaheer Lari. _Karachi: Illustrated City Guide_ (Karachi: Oxford University Press, 2001). (Summer 1997)
 
-## Other Skills
+## Affiliations
+Global Architectural History Teaching Collaborative (2016-present)
+Society of Architectural Historians (2017-present)
 
-### Languages
+## Languages
 English - Native  
 Urdu - Native  
 French - Good, can read with dictionary  
