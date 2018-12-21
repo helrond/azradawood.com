@@ -7,8 +7,6 @@ keywords: contact
 
 <div class="small-6 columns">
 
- <h2>Other sites</h2>
-
   <ul class="no-bullet">
     <li><a href="http://idin.academia.edu/AzraDawood"><i class="ai ai-academia-square"></i> Academia.edu</a></li>
     <li><a href="https://www.linkedin.com/in/azra-dawood-7972a44"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
