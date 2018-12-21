@@ -3,6 +3,7 @@ layout: level-one
 title: Contact
 description: How to contact me.
 keywords: contact
+published: true
 ---
 
 <div class="small-6 columns">
@@ -11,7 +12,7 @@ keywords: contact
     <li><a href="http://idin.academia.edu/AzraDawood"><i class="ai ai-academia-square"></i> Academia.edu</a></li>
     <li><a href="https://www.linkedin.com/in/azra-dawood-7972a44"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
     <li><a href="https://twitter.com/4jjoo"><i class="fa fa-twitter-square"></i> Twitter</a></li>
-    <li><a href="https://architecture.mit.edu/student/azra-dawood"><i class="fa fa-university"></i> MIT Architecture</a></li>
+    <li><a href="https://architecture.mit.edu/alumni/azra-dawood"><i class="fa fa-university"></i> MIT Architecture</a></li>
   </ul>
 
   <a class="typeform-share button" href="https://helrond.typeform.com/to/Qc2Jno" data-mode="1" target="_blank">Send me a message</a>
