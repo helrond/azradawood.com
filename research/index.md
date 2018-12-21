@@ -1,11 +1,11 @@
 ---
 layout: level-one
-title: Academics
+title: Research
 description: Information about my research interests, academic work and awards.
 keywords: academics, awards, research interests
 ---
 
-I recently completed [my PhD](https://architecture.mit.edu/student/azra-dawood) in the History, Theory and Criticism of Architecture and Art program and the Aga Khan Program for Islamic Architecture at MIT. Focusing on the period between the First and Second World Wars, my PhD research lies at the intersection of American architecture, the history of philanthropy, theological history, and postcolonial studies. 
+I recently completed [my PhD](https://architecture.mit.edu/student/azra-dawood) in the History, Theory and Criticism of Architecture and Art program and the Aga Khan Program for Islamic Architecture at MIT. Focusing on the period between the First and Second World Wars, my PhD research lies at the intersection of American architecture, the history of philanthropy, theological history, and postcolonial studies.
 
 ## Work
 
