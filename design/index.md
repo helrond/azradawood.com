@@ -1,6 +1,6 @@
 ---
 layout: level-one
-title: Architecture
+title: Design
 description: >-
   Information about my architectural practice in Karachi, Austin, and New York
   City.
