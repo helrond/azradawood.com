@@ -68,38 +68,50 @@ footer {
   }
 }
 
-.home-section {
-  padding-bottom: 30%;
-  padding-top: 30%;
-
+.home__image {
+  width: 100%;
+  float: left;
+  @media #{$large-up} {
+    width: 60%;
+    height: 100vh;
+    overflow: hidden;
+    & img {
+      max-width: none;
+      height: 100vh;
+    }
+  }
 }
 
-.home-title {
-  background-image: url(/img/cover.jpg);
-  background-size: cover;
-  background-position: center;
-  color: $white;
-  margin-bottom: -3rem;
-  @media #{$medium-up} {
-    margin-bottom: -2rem;
+.home__text {
+  width: 100%;
+  @media #{$large-up} {
+    width: 40%;
+    float: right;
+  }
+  padding: 2rem 3rem;
+  & p {
+    font-size: 1.2rem;
+  }
+  & a {
+    font-weight: bold;
+  }
+  & h1 {
+    margin-top: 0;
   }
 }
 
 .home-caption {
-  color: $white;
+  width: 100%;
+  color: $black;
   text-align: center;
-  background-color: rgba(10, 10, 10, 0.5);
+  background-color: $primary-color;
   position: relative;
   bottom: 0;
-  height: 3rem;
-  p {
-    line-height: 1.5rem;
-  }
-  @media #{$medium-up} {
-    height: 2rem;
-    p {
-      line-height: 2rem;
-    }
+  font-size: 1rem;
+  padding: .5rem;
+  @media #{$large-up} {
+    position: absolute;
+    width: 60%;
   }
 }
 
