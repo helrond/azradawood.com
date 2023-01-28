@@ -72,7 +72,7 @@ footer {
   width: 100%;
   float: left;
   @media #{$large-up} {
-    width: 60%;
+    width: 50%;
     height: 100vh;
     overflow: hidden;
     & img {
@@ -85,7 +85,7 @@ footer {
 .home__text {
   width: 100%;
   @media #{$large-up} {
-    width: 40%;
+    width: 50%;
     float: right;
   }
   padding: 2rem 3rem;
@@ -111,7 +111,7 @@ footer {
   padding: .5rem;
   @media #{$large-up} {
     position: absolute;
-    width: 60%;
+    width: 50%;
   }
 }
 
