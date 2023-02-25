@@ -68,27 +68,20 @@ footer {
   }
 }
 
+.home__title {
+  padding: 0 2rem;
+}
+
 .home__image {
   width: 100%;
-  float: left;
-  @media #{$large-up} {
-    width: 50%;
-    height: 100vh;
-    overflow: hidden;
-    & img {
-      max-width: none;
-      height: 100vh;
-    }
-  }
 }
 
 .home__text {
   width: 100%;
+  padding: 2rem 10%;
   @media #{$large-up} {
-    width: 50%;
-    float: right;
+    padding: 2rem 20%;
   }
-  padding: 2rem 3rem;
   & p {
     font-size: 1.1rem;
   }
@@ -103,16 +96,9 @@ footer {
 .home-caption {
   width: 100%;
   color: $black;
-  text-align: center;
-  background-color: $primary-color;
-  position: relative;
-  bottom: 0;
-  font-size: 1rem;
+  text-align: left;
+  font-size: .75rem;
   padding: .5rem;
-  @media #{$large-up} {
-    position: absolute;
-    width: 50%;
-  }
 }
 
 .button.hollow {
